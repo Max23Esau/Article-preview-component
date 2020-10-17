@@ -1,6 +1,6 @@
 var modalContainer = document.getElementById('ModalContainer');
 var btn = document.getElementById('btnModal');
-var share = document.getElementById('userDescription');
+var share = document.getElementById('userDescriptionContent');
 var span = document.getElementsByClassName('close')[0];
 
 if (window.matchMedia('(min-width: 890px)').matches) {
