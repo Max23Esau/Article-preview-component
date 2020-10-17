@@ -43,6 +43,6 @@ if (window.matchMedia('(min-width: 449px)').matches) {
         share.classList.remove('hide');
         btnContainer.classList.remove('hide');
       };
-    }
     };
-}
+  };
+};
